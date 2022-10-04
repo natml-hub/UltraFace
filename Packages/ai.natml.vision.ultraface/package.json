@@ -1,0 +1,23 @@
+{
+    "name": "ai.natml.vision.ultraface",
+    "version": "1.0.0",
+    "displayName": "UltraFace",
+    "description": "Ultra-light fast generic face detector.",
+    "unity": "2021.2",
+    "dependencies": {
+        "ai.natml.natml": "1.0.18"
+    },
+    "keywords": [
+        "natml",
+        "machine learning",
+        "ml",
+        "face detection"
+    ],
+    "author": {
+        "name": "NatML",
+        "email": "hi@natml.ai",
+        "url": "https://github.com/natmlx"
+    },
+    "license": "MIT",
+    "repository": "github:natml-hub/UltraFace"
+}
